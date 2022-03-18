@@ -1,0 +1,4 @@
+semester 1 : 3,85
+semester 2 : 3,84
+semester 3 : 3,73
+semester 4 : blm (semoga 4)
